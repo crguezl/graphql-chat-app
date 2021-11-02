@@ -40,6 +40,6 @@ yarn run serve
 
 ## Servers
 
-The GraphQL server will be running on [http://localhost:4567](http://localhost:4567).
+The GraphQL playground is at [http://localhost:4567](http://localhost:4567).
 
-The Web servers is at [http://localhost:8080](http://localhost:8080)
+The Chat can be visited at [http://localhost:5678](http://localhost:5678)
