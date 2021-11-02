@@ -1,11 +1,15 @@
 # frontend
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
+Then:
+
 ```
 yarn run serve
 ```
@@ -15,12 +19,3 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
