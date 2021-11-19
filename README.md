@@ -26,6 +26,8 @@ then:
 npm run dev
 ```
 
+![](graphql-subscriptions-playground.png)
+
 ## Frontend setup
 
 ```bash
